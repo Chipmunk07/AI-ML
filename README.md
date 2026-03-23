@@ -1,4 +1,4 @@
-# AI/ML Projects Template
+# AI/ML Project
 
 A production-style Python repository that demonstrates sound software engineering practices using FastAPI, modular service layers, tests, containerization, and CI.
 
